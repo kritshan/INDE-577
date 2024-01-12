@@ -1,6 +1,4 @@
 # INDE 577 - Data Science & Machine Learning
 
 
-Seeing if my VSCode is working properly 
-
-Another change to see if this works
+INDE 577 is a Data Science and Machine Learning Course for graduate students. I am taking it as an undergraduate to enhance my machine learning programming skills. 
