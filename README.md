@@ -2,3 +2,8 @@
 
 
 INDE 577 is a Data Science and Machine Learning Course for graduate students. I am taking it as an undergraduate to enhance my machine learning programming skills. 
+
+## Topics
+* Python Programming and Version Control
+* Supervised Machine Learning
+* Unsupervised Machine Learning
