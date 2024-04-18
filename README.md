@@ -4,7 +4,7 @@ Hey! This repo contains implementations of numerous machine learning models and 
 
 I will primarely work with three datasets. 
 
-## Supervised Learning:
+# Supervised Learning:
 * Perceptron
 * Gradient Descent
 * Linear Regression
@@ -13,14 +13,14 @@ I will primarely work with three datasets.
 * Decision Trees
 * Ensemble Methods
 
-## Unsupervised Learning:
+# Unsupervised Learning:
 * DBScan
 * K-Means
 * PCA
 
 
 
-## Topics
+# Topics
 * Python Programming and Version Control
 * Supervised Machine Learning
 * Unsupervised Machine Learning
