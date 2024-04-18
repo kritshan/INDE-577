@@ -20,7 +20,3 @@ I will primarely work with three datasets.
 
 
 
-# Topics
-* Python Programming and Version Control
-* Supervised Machine Learning
-* Unsupervised Machine Learning
