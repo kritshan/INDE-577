@@ -4,19 +4,19 @@ Hey! This repo contains implementations of numerous machine learning models and 
 
 I will primarely work with three datasets. 
 
-Supervised Learning:
-    - Perceptron
-    - Gradient Descent
-    - Linear Regression
-    - Logistic Regression
-    - K-Nearest Neighbors
-    - Decision Trees
-    - Ensemble Methods
+## Supervised Learning:
+* Perceptron
+* Gradient Descent
+* Linear Regression
+* Logistic Regression
+* K-Nearest Neighbors
+* Decision Trees
+* Ensemble Methods
 
-Unsupervised Learning:
-    - DBScan
-    - K-Means
-    - PCA
+## Unsupervised Learning:
+* DBScan
+* K-Means
+* PCA
 
 
 
