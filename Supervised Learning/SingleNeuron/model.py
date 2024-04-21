@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+from mlxtend.plotting import plot_decision_regions
 
 
 __all__ = ['SingleNeuron']
