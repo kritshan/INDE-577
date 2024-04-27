@@ -7,8 +7,8 @@ Batch Gradient Descent:
 In batch gradient descent, the algorithm computes the gradient of the loss function using the entire training dataset. Batch gradient descent is computationally expensive as it requires storing and processing the entire dataset in memory for each parameter update. However, it generally converges to the global minimum of the loss function with smooth, well-behaved surfaces.
 
 
-Stochastic Gradient Descent (SGD):
+Stochastic Gradient Descent:
 
-In stochastic gradient descent, the algorithm updates the model parameters using only one data point at a time. This makes stochastic gradient descent much faster and more scalable than batch gradient descent, especially for large datasets. SGD often converges to a solution that oscillates near the minimum rather than directly converging to it.
+In stochastic gradient descent, the algorithm updates the model parameters using only one data point at a time. This makes stochastic gradient descent much faster and more scalable than batch gradient descent, especially for large datasets. Stochastic gradient descent often converges to a solution that oscillates near the minimum rather than directly converging to it.
 
 Stochastic gradient descent is typcally chosen for regression and neural network models. 
