@@ -4,6 +4,8 @@ Hey! This repo contains implementations of numerous machine learning models and 
 
 For both regression and classification tasks, I will primarely work with the Auto-MPG dataset from the UCI Machine Learning Repository. I chose this dataset because I am a huge fan of anything cars-related. I am interested in seeing how a vehicle's efficiency is affected by its different characteristics, like its horsepower or weight. It could provide insight into how possible engine or vehicle modifications affect effiency, as well. 
 
+In order to modify the dataset for classification tasks, I decided to create two labels: Low-MPG and High-MPG. I plotted out the frequency of each MPG value and picked a cutoff such that the classes would have about the equal amount of datapoints. So, there would be equally as many low-MPG cars as there are high-MPG cars. The cutoff value I chose is 23. 
+
 The dataset can be viewed at this link: https://archive.ics.uci.edu/dataset/9/auto+mpg
 
 Here is a brief overview of what will be covered in both supervised and unsupervised learning. 
